@@ -30,3 +30,5 @@ Start site
 ```
 npm run dev
 ```
+
+Make sure its running as https
