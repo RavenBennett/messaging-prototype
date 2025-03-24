@@ -32,7 +32,7 @@ npm run dev
 ```
 
 Make sure its running as https
-
+If you want to open both the angular and laravel app at the same time then either use two diffrent browsers or use one with private browsing
 
 go to /admin and
 login with
