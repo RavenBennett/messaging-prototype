@@ -32,3 +32,15 @@ npm run dev
 ```
 
 Make sure its running as https
+
+
+go to /admin and
+login with
+Email:
+```
+admin@example.com
+```
+Password:
+```
+secret
+```
