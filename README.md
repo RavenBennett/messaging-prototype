@@ -1,4 +1,5 @@
 Set up redis server: https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/
+and make sure its running.
 
 ```
 composer install 
@@ -6,7 +7,8 @@ npm install
 ```
 
 
-Copy the .env.example file to .env: 
+Copy the .env.example file to .env
+and update any variables:
 ```
 cp .env.example .env
 php artisan key:generate
